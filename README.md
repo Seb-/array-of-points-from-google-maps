@@ -9,7 +9,7 @@ Start clicking on the map.
 
 Points can be added or moved (click or drag) or deleted (right click).
 
-You can accept the location request to center the map on your current position.
+You can accept the location request at the start to center the map on your current position.
 
 # Install
 Save the page "index.html" on your computer (or any server) and open it with a browser.
