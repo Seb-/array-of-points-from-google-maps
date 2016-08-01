@@ -1,5 +1,5 @@
 # array-of-points-from-google-maps
-This page allows a user to grab an array of points by clicking on a Google Maps to draw a path.
+This page allows a user to grab an array of points by clicking on a Google Maps to draw a path (polyline).
 
 # Demo
 https://jsfiddle.net/Seb__/drjnb9us/
